@@ -5,6 +5,10 @@ class parent
 	{
 		System.out.println("Parent method");
 	}
+	public void show()1
+	{
+		System.out.println("New Method");
+	}
 }
 
 public class JavaBsic extends parent{
