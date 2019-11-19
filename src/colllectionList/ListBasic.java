@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListBasic {
+	public void show()
+	{
+		
+	}
 
 	public static void main(String[] args) {
 
